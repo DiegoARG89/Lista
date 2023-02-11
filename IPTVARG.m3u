@@ -137,46 +137,46 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745
 
 
 #EXTINF:-1 group-title="NOTICIAS NACIONALES", IP NOTICIAS YT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676130801/ei/kWXnY_7YHqHN8wKa2avwBA/ip/190.176.153.202/id/HUPVQK5Rmig.1/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMXR-eVOdC4w2M4jRO2V63SXB7wE-veSno9pHgYNtXtsAiEAoRDZSivHenYGGiMMlL2hClXRNYpAlcaxUqcEc2lsIOM%3D/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/IPNoticiasEnVivo/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="NOTICIAS NACIONALES", CANAL 26 YT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676130926/ei/DmbnY4P-EO2w5gSk3KvACQ/ip/190.176.153.202/id/E33UVF4dx7U.1/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgMQuKzYqxljUKb9qLnGoqX-Raq0D6eDY_r0y3yHwon3QCIAhdTpPORh84p8ouUaWLkQ27jKxxvd8rWZ8kUnfbMmzA/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/canal26/live
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477726445690568711/Qb1flBsT_400x400.jpg" group-title="NOTICIAS NACIONALES", CRONICA YT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676131086/ei/rmbnY_7hFOKdobIPoKyHgAU/ip/190.176.153.202/id/InSydaLSSlw.8/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgOA-7BmbpDrpevRx-1Bf7RYN0IfIoxNVxXl4r8wTQUGICIQCwWASjPeVUNKV4CXRT10DBCimXTnJjJ7zwYrharWLYSg%3D%3D/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/cronicatv/live
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="NOTICIAS NACIONALES", A24 YT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676131193/ei/GGfnY7r-Otyw5gS1rqXADA/ip/190.176.153.202/id/o8JBz0XFS_k.2/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJ7b_tI9I3-fScgnKNZGmYnlXVfCY4062VPLfZiMmdz-AiAxHWNjpopZLViziZceWH5NGP8s0hSlJ6yw3hOsgZUggg%3D%3D/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/A24com/live
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS NACIONALES", TODO NOTICIAS YT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676131278/ei/bWfnY_O7NomJ-LAPw7iV6Ak/ip/190.176.153.202/id/6hWHWGJ1Gbw.5/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/ar/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgdiCpjLejbxingQICP64cCwURkThwV5TAfSEhknLmmFsCIQDURAun1_EnZFmIEzGR-8oBIx7n-dNhzOFU0AyYe69Wjg%3D%3D/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/todonoticias/live
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1506356427228655625/Vym1HGRy_400x400.jpg" group-title="NOTICIAS NACIONALES", C5N YT
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/c5n/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="NOTICIAS NACIONALES", LN+  YT 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676131390/ei/3mfnY9aYNqnz1sQP4_2SqAc/ip/190.176.153.202/id/0ib0IQf3_8M.1/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAM01n6TCgwKec_vCSXofZPUZhUOHCR0JltscWI05ubjWAiBIxG-WRH4xuOpfa6pGsGtykvBwZtm9VWw0qtfme1kfgg%3D%3D/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/lanacion/live
 
 #EXTINF:-1 group-title="NOTICIAS INTERNACIONAL", FRANCE 24 YT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676131482/ei/OmjnY9awCICE-LAPsrmJoA4/ip/190.176.153.202/id/0ib0IQf3_8M.1/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCv0Gqnbvb-jJZ25Cjo6Qj8sXK8vwKL-gocRs-CH8xD4CIDNE7KRNpSuKvtgAnXrGIigDZBwf-ufv9oHmW2HWR_6n/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/France24_es/live
 
 #EXTINF:-1 group-title="NOTICIAS INTERNACIONAL", CARACOL NOTICIAS YT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676131557/ei/hWjnY9riD6CD-LAPuLO2sAc/ip/190.176.153.202/id/zhXvyd8VbOM.1/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/ar/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgA_xR4rbr6H8m2Qm6l3_QdBfC5NuxndgLA566nSAO5ewCIQCJXo9VXbp5R05PTOETzOU7NfcKAb2nUh9-M4rELiPtyw%3D%3D/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/cnoticiascaracol/live
 
 #EXTINF:-1 group-title="NOTICIAS NACIONALES", DIPUTADOS TV YT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676131642/ei/2mjnY42xBoGhobIPqZKZwAY/ip/190.176.153.202/id/Gq6MIaZ501A.1/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJ_Xra3NdO0tDyRHnrmpBiLkz_nGBNzwA3I8tf7J1pGoAiEA8YHmXXbndHy-lPD2XuyEDr61haGzegC6KKkaqxy-6BE%3D/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DTVDIPUTADOSTELEVISION/live
 
 #EXTINF:-1 group-title="NOTICIAS NACIONALES", CADENA 3 YT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676131708/ei/HGnnY7q6IpDgxASB-aeYBg/ip/190.176.153.202/id/sEooidi0EAQ.2/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGpOiuBp2Ijsu-MLLD1ZP5xJ6VlvYSVXkwX0EOgIPJ-ACIQDra6hQoAceYbAzcvUsMQWw_tgbTuqu7I17V-oouyoyGQ%3D%3D/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/cadena3/live
 
 #EXTINF:-1 group-title="NOTICIAS NACIONALES", RADIO RIVADAVIA AM 630
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676131761/ei/UWnnY7m4M--A-LAP9q2z-AI/ip/190.176.153.202/id/5cP5KfV4bhA.1/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGwtXyGtMmGwCYaf2MH8bOB-6vh44HSjYIxzx-62aBCICIC3_SZsLtGgALVxLDJIl79YLgNmIILfkOUJFS2ffCyTx/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RadioRivadaviaAM630/live
 
 #EXTINF:-1 group-title="NOTICIAS INTERNACIONAL", T13 CHILE YT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676131844/ei/pGnnY7GqNtKu1sQPluORKA/ip/190.176.153.202/id/Ove87nZ_1D4.3/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAL0erXgc-IF7R6nqCTISpIYCneS0chQzUBjrghWS9LOOAiEArJzmGozNBlYDn3HGUcVgChXBUVNdbqX9P_JVOGy6jTQ%3D/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/tele13/live
 
 #EXTINF:-1 group-title="NOTICIAS INTERNACIONAL", ADN 40 MX YT
-https://www.youtube.com/watch?v=_No4YKXjsF4
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ADN40MX/live
 
 
 
@@ -591,10 +591,10 @@ https://www.youtube.com/watch?v=mptsyRQneww
 https://www.youtube.com/watch?v=d0BFOFLmBcE
 
 #EXTINF:-1 group-title="SAN JUAN", CANAL 8 SAN JUAN YT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676137833/ei/CIHnY-i0OLik1sQPt_mHuAw/ip/190.176.153.202/id/3zfmcxLga5M.1/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAITikIMJiPjd6r2trphZ0uA550AaUY67py7wpyuCX36TAiEAvCi-H09NbSP3j8g4qovJp-g2Sx-225Gsp51tce_GbSg%3D/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/canal8sanjuan904/live
 
 #EXTINF:-1 group-title="SAN JUAN", CANAL 13 SAN JUAN YT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676137977/ei/mYHnY-amJoyC-LAP_rGmuA8/ip/190.176.153.202/id/PLKw8lhJ_dQ.1/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLnsXdBG2p8V5mJOvsf1JR-eWzsqTb4tLBKmJPoMv_kICIBhZ8Ln_3hlt71GhCiW6Vzg3LRX6Y9MbQ85cL3q9RXXB/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/canal30sanjuan/live
 
 #EXTINF:-1 group-title="ENTRE RIOS", ONCE TV PARANA YT
 https://www.youtube.com/watch?v=Kg_i2nSSE8A
