@@ -914,7 +914,7 @@ https://streamcasthd.com:19360/canal7saujil/canal7saujil.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/_rv20221116-01/web/assets/imgs/logos/telesol_w.png" group-title="SAN JUAN", TELESOL SAN JUAN
-https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="SAN JUAN", AM 1020 SAN JUAN
 http://51.79.83.93:9998/live/am1020/playlist.m3u8
