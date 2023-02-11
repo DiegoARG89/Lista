@@ -591,10 +591,10 @@ https://www.youtube.com/watch?v=mptsyRQneww
 https://www.youtube.com/watch?v=d0BFOFLmBcE
 
 #EXTINF:-1 group-title="SAN JUAN", CANAL 8 SAN JUAN YT
-https://www.youtube.com/watch?v=3zfmcxLga5M
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676137833/ei/CIHnY-i0OLik1sQPt_mHuAw/ip/190.176.153.202/id/3zfmcxLga5M.1/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAITikIMJiPjd6r2trphZ0uA550AaUY67py7wpyuCX36TAiEAvCi-H09NbSP3j8g4qovJp-g2Sx-225Gsp51tce_GbSg%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="SAN JUAN", CANAL 13 SAN JUAN YT
-https://www.youtube.com/watch?v=PLKw8lhJ_dQ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676137977/ei/mYHnY-amJoyC-LAP_rGmuA8/ip/190.176.153.202/id/PLKw8lhJ_dQ.1/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLnsXdBG2p8V5mJOvsf1JR-eWzsqTb4tLBKmJPoMv_kICIBhZ8Ln_3hlt71GhCiW6Vzg3LRX6Y9MbQ85cL3q9RXXB/file/index.m3u8
 
 #EXTINF:-1 group-title="ENTRE RIOS", ONCE TV PARANA YT
 https://www.youtube.com/watch?v=Kg_i2nSSE8A
