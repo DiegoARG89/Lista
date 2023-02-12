@@ -43,6 +43,9 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el-nueve.png" group-title="NACIONALES", CANAL 9  35.1 OPCION 2
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el-nueve.png" group-title="NACIONALES", CANAL 9  35.1 OPCION 3
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/165c3b88-697b-43f2-bde1-a7f5544c7fa5/4.m3u8
+
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/telefe.png" group-title="NACIONALES", TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8   
 
@@ -144,9 +147,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/canal
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477726445690568711/Qb1flBsT_400x400.jpg" group-title="NOTICIAS NACIONALES", CRONICA YT
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/cronicatv/live
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477726445690568711/Qb1flBsT_400x400.jpg" group-title="NOTICIAS NACIONALES", CRONICA PD
-https://edge-vod01-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="NOTICIAS NACIONALES", A24 YT
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/A24com/live
