@@ -145,6 +145,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/canal
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477726445690568711/Qb1flBsT_400x400.jpg" group-title="NOTICIAS NACIONALES", CRONICA YT
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/cronicatv/live
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477726445690568711/Qb1flBsT_400x400.jpg" group-title="NOTICIAS NACIONALES", CRONICA PD
+https://edge-vod01-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="NOTICIAS NACIONALES", A24 YT
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/A24com/live
 
