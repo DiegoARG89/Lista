@@ -140,25 +140,25 @@ https://g1.proy-slo.transport.edge-access.net/a10/ngrp:MITREHD-10002_all/MITREHD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 group-title="NOTICIAS NACIONALES", IP NOTICIAS YT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/IP_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", IP NOTICIAS YT
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS NACIONALES", CANAL 26 YT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="NOTICIAS NACIONALES", CANAL 26 YT
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS NACIONALES", CRONICA YT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/CRONICA_HD.png" group-title="NOTICIAS NACIONALES", CRONICA YT
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS NACIONALES", A24 YT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/A_24.jpg" group-title="NOTICIAS NACIONALES", A24 YT
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS NACIONALES", TODO NOTICIAS YT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/TODO_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", TODO NOTICIAS YT
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS NACIONALES", C5N YT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/C5N.jpg" group-title="NOTICIAS NACIONALES", C5N YT
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS NACIONALES", LN+  YT 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/ln.png" group-title="NOTICIAS NACIONALES", LN+  YT 
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS INTERNACIONAL", FRANCE 24 YT
