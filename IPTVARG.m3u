@@ -3508,7 +3508,7 @@ https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="RELIGION", CANAL LUZ
 https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ewtn.com/assets/ewtn-badge-58f0dd80b4f161197d2d55f4af30ac2a7d29fcd9677c9f84afd61b53890fffe7.jpg" group-title="RELIGION", EWTN
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/705814371021119488/dKox3xxW_400x400.jpg" group-title="RELIGION", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/615586776267288576/hZWD4Yev.jpg" group-title="RELIGION", RADIO MURIALDO AM 1290 MENDOZA
