@@ -24,6 +24,6 @@ https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPnbTg4/babytv.png" group-title="INFANTIL", Baby TV HD (c)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6hTE5zedmhYMsinsP1ifqQ","kid":"FSP3MsuMs4BR1Sy-vNaeJw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k": "MJL4vYlOv4uM1JZ3kP1pHw","kty":"oct","kid":"ON_Df53VLbhUIf-OsRXf9g"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(BABYTV)/manifest.mpd
